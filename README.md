@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maro Al-Kades</h1>
 <h3 align="center">A Full Stack Developer From Egypt</h3>
-
-(img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115be654c53775381adc13a716a157fad552a2ee95&rid=giphy.gif&ct=g")
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif")
 
 
 <p align="left"> <a href="https://twitter.com/maro asam" target="blank"><img src="https://img.shields.io/twitter/follow/maro asam?logo=twitter&style=for-the-badge" alt="maro asam" /></a> </p>
